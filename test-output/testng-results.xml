@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-13T22:29:43 IST" name="Default suite" finished-at="2023-03-13T22:29:43 IST" duration-ms="86">
+    <groups>
+    </groups>
+    <test started-at="2023-03-13T22:29:43 IST" name="Default test" finished-at="2023-03-13T22:29:43 IST" duration-ms="86">
+      <class name="ustbatchno3.TestNG.testcustomer">
+        <test-method signature="customertest1()[pri:0, instance:ustbatchno3.TestNG.testcustomer@19bb07ed]" started-at="2023-03-13T22:29:43 IST" name="customertest1" finished-at="2023-03-13T22:29:43 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customertest1 -->
+        <test-method signature="customertest2()[pri:0, instance:ustbatchno3.TestNG.testcustomer@19bb07ed]" started-at="2023-03-13T22:29:43 IST" name="customertest2" finished-at="2023-03-13T22:29:43 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customertest2 -->
+      </class> <!-- ustbatchno3.TestNG.testcustomer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
