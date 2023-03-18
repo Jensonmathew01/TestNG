@@ -1,3 +1,5 @@
+Java8 program to multiply two elements of arraylist.
+***************************************************	
 package ustbatchno3.TestNG;
 
 import java.util.*;
